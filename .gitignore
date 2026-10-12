@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Buildozer (локальная сборка)
+.buildozer/
+bin/
+build/
+*.apk
+*.aab
+*.log
+
+# Данные приложения
+*.db
+routes.db
+gpx/
+crash.log
+strava_token.txt
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Редакторы
+.idea/
+.vscode/
+*.swp
